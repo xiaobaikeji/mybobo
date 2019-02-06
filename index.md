@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我对波波很不满意！！！
 
 You can use the [editor on GitHub](https://github.com/xiaobaikeji/mybobo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
